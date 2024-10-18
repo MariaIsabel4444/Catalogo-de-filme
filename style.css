@@ -2,3 +2,7 @@ body {
     background-color: black;
     color:gainsboro;
 }
+
+header {
+    font: size 45px;
+}
