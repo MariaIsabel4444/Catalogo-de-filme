@@ -6,4 +6,5 @@ body {
 header {
     font: size 45px;
     border-bottom: solid 15px gainsboro;
+    text-align: center;
 }
